@@ -1,0 +1,14 @@
+{
+ "_comment": "placeholder GUIDs: replace with the guid of your own prefabs",
+ "imagery": [
+  {
+   "id": 26,
+   "nameZh": "明月",
+   "nameEn": "moon",
+   "variants": [
+    { "prefabGuid": "00000000000000000000000000000001", "euler": { "x": 0, "y": 0, "z": 0 }, "height": 2.0, "tags": [ "full" ] },
+    { "prefabGuid": "00000000000000000000000000000002", "euler": { "x": 0, "y": 0, "z": 0 }, "height": 2.0, "tags": [ "crescent" ] }
+   ]
+  }
+ ]
+}
