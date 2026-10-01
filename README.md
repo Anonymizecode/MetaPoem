@@ -1,4 +1,4 @@
-﻿# MetaPoem: Model Library, Unity Loader and Licensing Notice
+﻿# MetaPoem: Model Dataset, Unity Loader and Licensing Notice
 
 Here contains:
 
